@@ -41,5 +41,5 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ]
+, "components/Header/Navbar/Menu/MenuLinks.jsx", "components/Header/Navbar/Menu/MenuToggle.jsx", "components/Header/Navbar/Navbar.jsx", "components/Header/Navbar/Menu/MenuItem.jsx", "components/Header/Navbar/Menu/MenuButton.jsx", "components/Header/Navbar/Menu/Logo.jsx", "components/Header/Header.jsx", "components/Layout/Layout.jsx", "components/Main/About.jsx", "components/Main/Home.jsx", "components/Main/Main.jsx", "components/Main/Motto.jsx", "components/Main/Projects.jsx", "components/Login/Login.jsx", "components/utils/Logo.jsx", "pages/index.jsx", "pages/_document.jsx", "pages/_app.jsx"  ]
 }
